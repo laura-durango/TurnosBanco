@@ -11,7 +11,7 @@ public class ObjTurnosBanco {
         this.nombre = nombre;
         this.tipoServicio = tipoServicio;
         this.horaLlegada = horaLlegada;
-        this.atendido = false;
+        this.atendido = atendido;
     }
 
     public ObjTurnosBanco() {
